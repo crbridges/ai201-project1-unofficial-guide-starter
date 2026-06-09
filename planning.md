@@ -43,11 +43,13 @@ I have selected elective options and ratings for my undergraduate CS program, Or
 
 **Chunk size:** I will chunk my data in tokens split up by reddit post. I will use a delimiter between posts to separate them all individually.
 Edit - I decided to add the original post and store it with the reply.
+Edit - I had to remove the original posts from the embedding. Now they are only carried in the metedata for each reply.
  
 **Overlap:** I won't have any overlap.
 
 **Reasoning:**  Because I am splitting by post, all data should be split into complete thoughts. There shouldn't be an chance of ideas getting split between retrievals.
 Edit - Because some replies are short and have little to no context, they mean nothing without some extra data. I decided to keep the original post with each reply for the LLM to use in its reponse. It shouldn't be used for embedding though.
+Edit - I had to remove the original posts from the embedding, because they were outweighing the replies by a singificant margin. It was difficult to get a reply returned otherwise.
  
 
 ---
