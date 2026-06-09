@@ -10,6 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+I have selected elective options and ratings for my undergraduate CS program, Oregon State Universitie's post bacc degree. The online post bacc program is smaller and entirely online, so the data is hard to separate from in person classes for distance learners. 
 
 ---
 
