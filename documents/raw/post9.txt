@@ -1,0 +1,119 @@
+Recommended Electives
+Are there any electives you would recommend or would say are super useful. I am currently signed up for the data science series but would love to maybe delve into ones that would be harder to find outside resources and self teach. Just trying to maximize the value I get out of the program.
+
+Archived post. New comments cannot be posted and votes cannot be cast.
+
+Upvote
+7
+
+Downvote
+
+6
+Go to comments
+
+
+Share
+u/briumvi_ublituximab avatar
+briumvi_ublituximab
+•
+Promoted
+
+AMA about RMS & BRIUMVI® (ublituximab-xiiy)! Hi, I'm Dr. Lauren Gluck, a board-certified Neurologist. And I'm Jules, I take Briumvi and have lived with RMS for over a decade. On World MS Day, May 30th at 12 PM ET, we'll answer your questions. Submit them now!
+Thumbnail image: AMA about RMS & BRIUMVI® (ublituximab-xiiy)! Hi, I'm Dr. Lauren Gluck, a board-certified Neurologist. And I'm Jules, I take Briumvi and have lived with RMS for over a decade. On World MS Day, May 30th at 12 PM ET, we'll answer your questions. Submit them now!
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+Pencil_Pb
+•
+9mo ago
+Depends on what jobs you want to pursue.
+
+If you want to do front end development, I suggest Intro to Usability Engineering (CS352)
+
+If you want to do back end development, I suggest Cloud Application Development (CS493). Intro to networking is a prerequisite.
+
+
+
+Upvote
+3
+
+Downvote
+
+Award
+
+Share
+
+CreepyCanadianz
+OP
+•
+9mo ago
+•
+Edited 9mo ago
+Totally good advice! I chose the data science initially because it relates to my current work and interests but a lot of me doing this program had been exploratory. Do you have any advice for someone unsure of what they want to pursue? Does one class have material that may be more difficult to obtain outside of the program
+
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+Pencil_Pb
+•
+9mo ago
+If you’re not sure what you want to pursue, my advice is to find some employable skill and then find a course that’s hopefully half decent and use that as an intro and see if you like/hate it. Basically like a sampler pack for future career paths.
+
+I thought I was interested in front end/UX, took 352 and left with a better understanding of it AND that I didn’t want to do that for my career. A good thing to learn up front and well worth it.
+
+
+Upvote
+2
+
+Downvote
+
+Award
+
+Share
+
+
+1 more reply
+Dope-pope69420
+•
+9mo ago
+I am currently working as an application developer. I enjoy doing backend work more and I will be doing cloud app dev this upcoming quarter. Looking forward to it.
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+Koilosarx
+•
+9mo ago
+You might consider intro to computer graphics with Michael Bailey. I don't think data visualization or scientific visualization are offered online, but I think this class teaches some useful techniques you could use to visualize data. The final project has a lot of freedom, so you could do a data visualization project. People seem to like his classes a lot.
+
+He also teaches parallel programming, which you might find pretty useful as well.
+
+
+Upvote
+2
+
+Downvote
+
+Award
+
+Share
+

@@ -1,0 +1,228 @@
+What are some interesting and fun electives you guys have taken.
+Im looking through the courses offered and dont see too many to pick from so if you've taken any tell me about it or tell me why I should stay away from it. So far my plan is to take Cs 492 Mobile Software development in the summer, Cs 381 Programming Language Fund in the spring and Cs 372 Intro To Computer Networks in the spring (This one doesn't sound too interesting to me). I've already taken Cs 352 Intro To Usability Engineering
+
+Archived post. New comments cannot be posted and votes cannot be cast.
+
+Upvote
+16
+
+Downvote
+
+15
+Go to comments
+
+
+Share
+u/Texas_A_M_Law avatar
+Texas_A_M_Law
+•
+Promoted
+
+Drive change with a Master of Legal Studies that empowers you to make an impact across industries.
+Learn More
+graduate.law.tamu.edu
+Clickable image which will reveal the video player: Drive change with a Master of Legal Studies that empowers you to make an impact across industries.
+Collapse video player
+
+0:00 / 0:00
+
+
+
+
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+Starrr_Pirate
+•
+1y ago
+Graphics (CS 450), and the competition isn't even remotely close (IMO). If you like being even a little creative, it's tons of fun, and getting to know how to render stuff and the creative ways you can use graphics to visualize various types of data is really interesting. 
+
+Only offered in the Fall though, so it's worth factoring that into any plans. 
+
+
+
+Upvote
+11
+
+Downvote
+
+Award
+
+Share
+
+pyordie
+•
+1y ago
+Loved it as well. I’ll never look a modern animated film/game the same way ever again.
+
+
+
+Upvote
+7
+
+Downvote
+
+Award
+
+Share
+
+u/facesnorth avatar
+facesnorth
+•
+1y ago
+of Bailey's classes, is anyone able to compare if I can only choose to take 1? Graphics, Shaders, and Parallel? Probably very few people have taken all 3.
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+
+3 more replies
+Astro_Pineapple
+•
+1y ago
+381 was fun and interesting for the most part. The quizzes were kinda meh at times but the labs are where the class gets interesting. The first lab was the hardest in my opinion, but once you figure out the pattern for your regex it’s a breeze.
+
+
+Upvote
+7
+
+Downvote
+
+Award
+
+Share
+
+EdmondFreakingDantes
+•
+1y ago
+Open Source is surprisingly rewarding for what you would expect to be a freebie class. It's also really well designed, pedagogically speaking.
+
+You learn a lot about how to maintain a repository well, best practices for collaboration, and the legalities of licenses.
+
+
+
+Upvote
+6
+
+Downvote
+
+Award
+
+Share
+
+weihe28
+•
+1y ago
+Does it involve a lot of group work?
+
+
+
+Upvote
+3
+
+Downvote
+
+Award
+
+Share
+
+Gief49
+•
+1y ago
+None iirc, you choose an existing open source project and focus your assignments on that mostly.
+
+
+Upvote
+3
+
+Downvote
+
+Award
+
+Share
+
+
+1 more reply
+u/Minnesnowtaplz avatar
+Minnesnowtaplz
+•
+1y ago
+I second open source!
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+u/NissanUSA avatar
+u/NissanUSA
+•
+Promoted
+
+Power your adventure with the new Nissan Pathfinder and Wards most-awarded V6 engine over the last 30 years.
+Learn More
+nissanusa.com
+Clickable image which will reveal the video player: Power your adventure with the new Nissan Pathfinder and Wards most-awarded V6 engine over the last 30 years.
+Collapse video player
+
+0:00 / 0:00
+
+
+
+
+u/TauVee avatar
+TauVee
+•
+1y ago
+I've taken 372 (Computer Networks) and 381 (Programming Language Fundamentals) and would recommend them both.
+
+381 has a lot of dry reading, but it does a lot to teach you how languages evolved and why modern languages are designed the way they are. On a more practical note, it gives some practice in regular expressions and functional programming, neither of which are covered anywhere else in the degree that I'm aware of. No final exam either, which is nice.
+
+As for 372, maybe it's not for everyone, but I found it fascinating. I mean, we use the Internet every day, and now I understand how it works! It was a challenging class, but not too bad overall, and the projects were interesting. I suspect the knowledge could be useful if I ever work on anything web-related that goes deeper than surface level.
+
+
+Upvote
+4
+
+Downvote
+
+Award
+
+Share
+
+[deleted]
+•
+1y ago
+I loved Parallel Programming. Not sure if it's an elective or mandatory anymore but it's one of my favorite classes
+
+
+Upvote
+4
+
+Downvote
+
+Award
+
+Share
+
+u/Bonzie_57 avatar
+Bonzie_57
+•
+1y ago
+Programming Language Fundamentals - amazing class, extremely relevant- EBNF ftw

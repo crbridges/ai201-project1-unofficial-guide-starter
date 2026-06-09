@@ -1,0 +1,304 @@
+Feedback on Electives
+Hello, I am debating between these electives:
+
+331 - Intro to AI
+370 - Intro to Security
+372 - Intro to Computer Networks
+434 - Machine Learning & Data Mining
+492 - Mobile Software Development
+493 - Cloud Application Development
+
+Anyone have any feedback on any of these classes/whether they were worth it for you? If there are subjects that I may be better learning in a later online course that would be helpful knowledge as well. I am interested in all of these professionally, but if I had to choose it would probably be Intro to AI, ML&DM, and Cloud (I know I have to take 372 for Cloud)
+Thanks!
+
+Archived post. New comments cannot be posted and votes cannot be cast.
+
+Upvote
+15
+
+Downvote
+
+17
+Go to comments
+
+
+Share
+u/rl_fragrances avatar
+rl_fragrances
+•
+Promoted
+
+This Father’s Day, give timeless refinement with a Ralph Lauren Fragrances Giftset. Every moment with dad is a victory.
+This Father’s Day, give timeless refinement with a Ralph Lauren Fragrances Giftset. Every moment with dad is a victory.
+This Father’s Day, give timeless refinement with a Ralph Lauren Fragrances Giftset. Every moment with dad is a victory.
+This Father’s Day, give timeless refinement with a Ralph Lauren Fragrances Giftset. Every moment with dad is a victory.
+amazon.com
+Shop Now
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+Frillback
+•
+5y ago
+CS 492 - Mobile was a positive experience for me. Course content and videos are well organized. Projects are larger but are due every two weeks. I would say if you are interested in mobile, it is a good choice. I would say the only con (or pro, depending on how you look at it) is it teaches cross platform Flutter instead of native Android or iOS development. Resources on Flutter are limited but Google has well made guides and documentation. The projects built in the course can easily be modified into portfolio projects if you are seeking that type of thing.
+
+
+
+Upvote
+9
+
+Downvote
+
+Award
+
+Share
+
+HADESsnow
+OP
+•
+5y ago
+Ahh thank you for this. I actually would have preferred native iOS. Did you go into mobile development as a career or was more good learning experience
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+treesondrugs
+•
+5y ago
+I don't think AI and ML are offered for ecampus. Otherwise I would be taking those for sure. :(
+
+I'm taking my first elective this term, parallel computing, so I can't comment on those you listed.
+
+
+
+Upvote
+10
+
+Downvote
+
+Award
+
+Share
+
+HADESsnow
+OP
+•
+5y ago
+What made you choose parallel computing?
+
+
+
+Upvote
+3
+
+Downvote
+
+Award
+
+Share
+
+treesondrugs
+•
+5y ago
+For starters, I've read really great things about it here on reddit. People say it's the best course they've taken here.
+
+More importantly, it seems pretty necessary if you want to use the full capability of multi-core processors, so my thinking is that it's gotta be pretty important in optimizing AI/ML algorithm efficiency down the line, which is what I'm most interested in learning about at the moment. So far in the course, it has come across as being a really useful skill to know how to properly parallelize your programs. Especially important when working with large data sets.
+
+The other electives I'm planning to take are 372 and 492. I'd like to take 493 cloud next winter instead of mobile but I don't think it's offered that term, so mobile dev seems like the next most interesting option for me. I'm taking networks because supposedly it's pretty important in general, and a requisite for cloud if it is somehow offered next winter.
+
+
+Upvote
+5
+
+Downvote
+
+Award
+
+Share
+
+
+1 more reply
+u/onepalebluedot avatar
+onepalebluedot
+•
+5y ago
+I’m in 372 Networking right now. It is so useful, I’m finally beginning to understand how the internet works. I definitely recommend it. I’m also going for cloud and parallel. I talked to the guys in the cybersecurity club and they highly recommend CS478 which I believe is Network Security. I would love to take it but probably won’t get around to it. They didn’t seem to care for Defense against the dark arts or Intro to security fwiw.
+
+
+
+Upvote
+4
+
+Downvote
+
+Award
+
+Share
+
+HADESsnow
+OP
+•
+5y ago
+Thank you! That is very insightful that they didn’t care for datda or intro to security. I will consider network security 👍
+
+
+Upvote
+2
+
+Downvote
+
+Award
+
+Share
+
+u/Target_Official avatar
+u/Target_Official
+•
+Promoted
+
+Picking a side has never looked so good. Go bold with your colors, chic with your looks and stylish with your fandom.
+Shop Now
+target.com
+Clickable image which will reveal the video player: Picking a side has never looked so good. Go bold with your colors, chic with your looks and stylish with your fandom.
+Collapse video player
+
+u/donnpat avatar
+donnpat
+•
+5y ago
+CS 381 - Programming Language Fundamentals is a new elective being offered in Fall and Spring terms.
+
+
+
+Upvote
+10
+
+Downvote
+
+Award
+
+Share
+
+u/cutebrwnwoofer avatar
+cutebrwnwoofer
+•
+5y ago
+What is this course about?
+
+
+
+Upvote
+3
+
+Downvote
+
+Award
+
+Share
+
+u/Soundbendor avatar
+Soundbendor
+•
+5y ago
+https://canvas.oregonstate.edu/courses/1826252/assignments/syllabus
+
+
+Upvote
+2
+
+Downvote
+
+Award
+
+Share
+
+
+1 more reply
+ramenmoodles
+•
+5y ago
+•
+Edited 5y ago
+370 was awful when I took it. No communication or grades until the last second. Only class I took a pass/fail on.
+
+First half of 372 is easy if you remember OS. I thought the topics were pretty useful too. Lot of information in the class
+
+492 and 493 were my favorite. Both are project heavy but that could be good to share as portfolio pieces depending on what you do. While Flutter isn’t my favorite language there are some topics in state management that are good to know if you’re wanting to get into mobile dev. 493 is mostly making APIs which is a great thing to know for jobs.
+
+
+Upvote
+4
+
+Downvote
+
+Award
+
+Share
+
+Modullah
+•
+5y ago
+I've read very positive comments about mobile, cloud, and 372 (very tough but rewarding course).
+
+
+Upvote
+7
+
+Downvote
+
+Award
+
+Share
+
+falafelinparadise
+•
+5y ago
+I’m in 493 - Cloud right now. What I love about it: it gives a lot of clarification about the restful verbs (get post put patch delete) that were just glossed over in cs290 web. I am getting a ton of repetition which is making me feel very confident with web API’s. The assignments are rigorous and well-structured. What I hate about it: the sample code has some strange error handling that has taken me a long time to figure out and I’ve had trouble finding a lot of documentation about google’s datastore. Also, a certain pony-tailed professor’s first lecture was “I am not going to hold your hand in this class, you will need to figure it out yourself” so there is that. Some people love that style, but I find that attitude pretty off putting for the amount of time and money I’m investing in my education. I’m here now to learn from these professors-I have the rest of my life to teach myself from internet strangers.
+
+Also, I HIGHLY recommend networks! It used to be a required class and I feel it was one of the most well taught classes in this program. I complain all the time about how these classes are riddled with mistakes and lazy professors but I have very few complaints about that one. I feel networks really pulled together some disjointed knowledge I had about several different subjects.
+
+
+Upvote
+3
+
+Downvote
+
+Award
+
+Share
+
+u/rodiraskol avatar
+rodiraskol
+•
+5y ago
+493 is an excellent class with a misleading name. I think "Web Development II" or "API & Back-end Development" would be more appropriate.
+
+As another commenter mentioned, the meat of it is learning how to write RESTful API's, which is definitely useful. You'll also learn the basics of authentication and authorization which, again, are useful to know. The course is heavy on practical assignments, so you will actually get your hands dirty with these concepts.
+
+The downside is that you won't actually learn much about cloud computing! You will get exposure to Google's suite of cloud services, but the class only covers just enough to be able to host and run your programming assignments. Then at the end, there's a module which gives a brief overview of cloud topics.
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+
+[deleted]
+•
+5y ago

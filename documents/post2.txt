@@ -1,0 +1,10 @@
+URL: https://www.reddit.com/r/OSUOnlineCS/comments/135yej9/best_electives/
+Best electives?
+What are the best quality and useful electives for someone interested primarily in backend development? I am considering networks, programming fundamentals, parallel, cloud, and mobile. Obviously would have to take networks to take cloud.
+===
+For backend I’d do cloud, networks, and parallel. I’m biased because I work as a mobile dev but I’d say don’t sleep on mobile either. I thought I’d hate mobile app development but it’s actually a lot of fun.
+===
+Second this. Networks is rather good and I’ve heard great things about cloud. I enjoyed doing mobile development and thought it was the best class in the program without a doubt. I also took open source and it was pretty easy but did get me into open source projects which is fun!
+===
+Programming Fundamentals, Parallel Programming, and Projects. Maybe you can switch Projects with Mobile, if you're actually interested in Mobile, but Projects offers more flexibility.
+Unfortunately Networks sucks right now, and it's not worth wasting an elective just to take Cloud.

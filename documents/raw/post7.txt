@@ -1,0 +1,169 @@
+Elective recommendations?
+[UPDATE: Apologies, I should have searched for this, because it's a question that's apparently asked every 3-6 months.)
+
+Hi again (I'm a frequent poster, I'm sorry).
+
+Suggestions on the best electives to take, please.
+
+What electives did you take that were irrelevant to your current job (if you're now a SWE)?
+
+What electives did you take that ARE relevant to your current job, but that were terrible courses?
+
+What electives did you take that you'd recommend all around?
+
+I was planning on taking Mobile Dev, but from Reddit posts, it looks like that course is simply a link to free Google courses, so... maybe not.
+
+Is Intro to Security worth it? Intro to Computer Networks sounds super specific/niche, and I'm not sure I'll need that.
+
+That ethics elective sounds like a throwaway, as important as it is to consider ethics.
+
+I'm peeved that there's not an Intro to AI course for the ecampus yet. Hoping that comes before Spring 2026. I think any CS graduate not graduating with some type of AI course on their transcript is less marketable these days (could be wrong here!).
+
+At this point, I'm not considering a self-guided elective because I don't think I have the chops or ideas for such a course yet.
+
+Would love to make the most out of the three required electives, so please contribute!
+
+
+Read more
+Archived post. New comments cannot be posted and votes cannot be cast.
+
+Upvote
+11
+
+Downvote
+
+12
+Go to comments
+
+
+Share
+u/WhenIWork avatar
+WhenIWork
+•
+Promoted
+
+Small business owners, you can save up to 15 hours a week building the work schedule when you switch to When I Work. Start your free 14-day trial today!
+Small business owners, you can save up to 15 hours a week building the work schedule when you switch to When I Work. Start your free 14-day trial today!
+Small business owners, you can save up to 15 hours a week building the work schedule when you switch to When I Work. Start your free 14-day trial today!
+Small business owners, you can save up to 15 hours a week building the work schedule when you switch to When I Work. Start your free 14-day trial today!
+Small business owners, you can save up to 15 hours a week building the work schedule when you switch to When I Work. Start your free 14-day trial today!
+Get Shift Done™
+wheniwork.com
+Sign Up
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+c4t3rp1ll4r
+•
+1y ago
+Networks may sound niche, but as a full stack dev, understanding network calls and how they work has been really helpful throughout my career. I believe it also opens you up to taking the cloud development course, which was also very useful to me back in the day (though it's changed a lot since then, per reports here).
+
+
+
+Upvote
+18
+
+Downvote
+
+Award
+
+Share
+
+u/Enough-Ad-5531 avatar
+Enough-Ad-5531
+OP
+•
+1y ago
+Ah, thanks for the input. I read here that Networks isn't too bad.
+
+
+Upvote
+3
+
+Downvote
+
+Award
+
+Share
+
+alkenequeen
+•
+1y ago
+Yes I took it last quarter and it was a lot of fun. The projects were cool too
+
+
+
+Upvote
+3
+
+Downvote
+
+Award
+
+Share
+
+u/Enough-Ad-5531 avatar
+Enough-Ad-5531
+OP
+•
+1y ago
+Should I drop Analysis of Algorithms and take that instead? I'm taking 340 (Databases) this term as well. I don't think I can do all three. I can do two. But Analysis of Algorithms looks like it's going to need more attention than I can realistically give it this term. I heard 340 was medium difficulty and need an easier class to pair with it.
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+
+1 more reply
+WildAlcoholic
+•
+1y ago
+I’m surprise networking isn’t baked into the base curriculum, but +1 for networking knowledge.
+
+
+
+Upvote
+8
+
+Downvote
+
+Award
+
+Share
+
+u/metal-trees avatar
+metal-trees
+•
+1y ago
+I recall reading somewhere that it used to be..? But I agree that it should be part of the base curriculum — it’s how we’re even able to send these messages
+
+
+Upvote
+2
+
+Downvote
+
+Award
+
+Share
+
+
+1 more reply
+
+[deleted]
+•
+1y ago
+
+[deleted]
+•
+1y ago

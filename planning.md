@@ -42,10 +42,13 @@ I have selected elective options and ratings for my undergraduate CS program, Or
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:** I will chunk my data in tokens split up by reddit post. I will use a delimiter between posts to separate them all individually.
+Edit - I decided to add the original post and store it with the reply.
  
 **Overlap:** I won't have any overlap.
 
 **Reasoning:**  Because I am splitting by post, all data should be split into complete thoughts. There shouldn't be an chance of ideas getting split between retrievals.
+Edit - Because some replies are short and have little to no context, they mean nothing without some extra data. I decided to keep the original post with each reply for the LLM to use in its reponse. It shouldn't be used for embedding though.
+ 
 
 ---
 
@@ -133,6 +136,8 @@ I have selected elective options and ratings for my undergraduate CS program, Or
 
 **Milestone 3 — Ingestion and chunking:**
 I will ask claude code to load all files into memory with a function named load_documents(). They will be split into sections for each reply to the comment thread separated at the delimited '==='. The function will return a list of dictionary replies with the url and text for each.
+
+Edit - I will ask Claude to also store the original post along side the reply, but it will not be used for embedding. Instead it will just be for context for the reply. 
 
 **Milestone 4 — Embedding and retrieval:**
 I will ask claude code to create a function embed_data() that stores all of the chunks into the ChromaDB. 

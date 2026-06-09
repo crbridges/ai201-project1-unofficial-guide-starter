@@ -1,0 +1,12 @@
+URL: https://www.reddit.com/r/OSUOnlineCS/comments/1362sm5/need_one_more_elective_to_take_in_the_summer_term/
+Need one more elective to take in the summer term - any advice?
+I have to take 2 more classes and then I’m done with the program. I will be retaking 344 in the summer, and need one more elective. I have completed 352 & 464 so far as my two electives. Does anyone know what other elective will be the least time consuming (smallest workload), that is available in the summer?
+Thank you
+===
+CS 464 Open Source Software, with Hannah Scott. Even easier than 352, and turned out to be useful for work.
+===
+They already took it.
+===
+Oh my mistake
+===
+Can you provide more information on how it's useful

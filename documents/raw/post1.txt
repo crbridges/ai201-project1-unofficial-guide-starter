@@ -1,0 +1,184 @@
+What Electives Do You Reccomend ?
+open discussion
+I am in the middle of planning out what electives to choose, and I wanted to hear some feedback from others who have done some CS electives.
+
+Which ones do you recommend ?
+
+Which ones to avoid ?
+
+Which ones are the easiest ?
+
+Which ones are the hardest ?
+
+Which ones have you learned the most ?
+
+Which ones have helped you the most ?
+
+What did you like about them ?
+
+What didn't you like about them ?
+
+What did you wish you had known before doing them ?
+
+Thank you !
+
+
+Read more
+
+Upvote
+4
+
+Downvote
+
+7
+Go to comments
+
+
+Share
+u/OpenAI avatar
+OpenAI
+•
+Promoted
+
+Built to scale with you from the start. Codex, available with ChatGPT.
+Sign Up
+chatgpt.com
+Thumbnail image: Built to scale with you from the start. Codex, available with ChatGPT.
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+Pencil_Pb
+•
+27d ago
+CS 352 - intro to usability engineering with Professor Hann Scott. I recommend if you think you’re interested in UI/UX/Front end work. Phenomenal class, amazing professor. Warning, the class revolves around a group project.
+
+CS 372 - Intro to Networking. Took because it’s a prerequisite to Cloud Application development. Good textbook and textbook author has lectures on YouTube that are phenomenal. Good fundamental knowledge if you’re interested in web dev/how the internet works. Not terribly hard.
+
+CS 493 - Cloud Application Development. I took it because I like backend web dev and cloud applications. Good intro class, prepared me for Capstone, very relevant to my job now. Not very challenging.
+
+I was curious about 381 (Fundamentals of Programming Languages) but wanted to graduate more.
+
+
+Upvote
+8
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/hawkman_z avatar
+hawkman_z
+•
+27d ago
+I could only afford 3… so I don’t know how the others are. Cloud and parallel were good. Networking was hard but required for cloud.
+
+
+Upvote
+3
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/bookishblunder avatar
+bookishblunder
+•
+27d ago
+Recommend 372 and 493, you'll likely work in cloud computing if you're going for SDE. I took the Intro to Data Science course and thought it was pretty bad, and have heard similar things regarding the other courses in that series.
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/squirrelgirl88 avatar
+squirrelgirl88
+•
+27d ago
+I thought 372 was a waste of time and I would have been better off just getting the book and watching the YouTube lectures from the author.
+
+I am really enjoying Intro to Security, it has a lot of interesting material and the projects are open-ended enough to require some actual thinking and detective work from you. 
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+caydub
+•
+26d ago
+The big 3 imo are networks, cloud, and programming languages one
+
+
+Upvote
+2
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/VDrakulich avatar
+VDrakulich
+•
+26d ago
+I took the new Data Science series this year (332, 432, 435). 332 is an absolute waste. Tons of busy work and assumes you have no background knowledge in CS or stats. Final Project winds up being a 50 page paper that's mostly screen shots of data (you need before and after photos anytime you alter your data).
+
+432 is better. Still a lot of busy work but it covers more advanced topics (Linear Regression, Log regression, Clustering, etc). Final project is still a 50 page paper, but it's more engaging. You run the same dataset through a variety of ML models and analyze the results of each. I'd say if you could skip the 332 prereq this might be worthwhile if 435 interests you.
+
+435 is the only one that I'd say is close to being of high quality. Less work in general, more advanced concepts, a lot of freedom for your project. There is some busy work (one discussion post required writing out all of the equations in a neural net by hand), but I found a lot of it pretty engaging.
+
+If your advisor can replace a CS elective with MTH 341, that would be my personal rec. The material feels quite relevant to CS. But it depends where you wanna wind up in CS. The class gave me a lot of the knowledge I needed to build a (shitty) scratch-built 3D renderer.
+
+
+Upvote
+1
+
+Downvote
+
+Reply
+
+Award
+
+Share
+
+u/party_tortoise avatar
+party_tortoise
+•
+23d ago
+•
+Edited 23d ago
+Networking, Parallel, OS2. These should have been core courses. You can argue about the necessity of OS2 but graduating with zero knowledge on networking and/or parallel is gonna make you look like a hack. They are integral to any programming unless you're doing something that doesn't connect to anything or doesn't care about performance (what kind of actual usable programming is even that?). If you want to get into data science, parallel is not debatable.
+
+Cloud is a waste of money. 90% of the class is just pointing you to read (often outdated) GCP deployment documentation. Yes, it isn't "cloud" like spinning up VM. It's literally ALL GCP deployment projects. I rarely consider classes bad but this was a really bad one on account of the value you get from it, where you could have easily learned from Udemy or any cert sites.
+
