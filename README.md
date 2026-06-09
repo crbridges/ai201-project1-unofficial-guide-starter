@@ -9,31 +9,26 @@
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+I have selected elective options and ratings for my undergraduate CS program, Oregon State Universitie's post bacc degree. The online post bacc program is smaller and entirely online, so the data is hard to separate from in person classes for distance learners. 
 
 ---
 
 ## Document Sources
 
-<!-- List every source you collected documents from.
-     Be specific: include URLs, subreddit names, forum thread titles, or file names.
-     Aim for variety — sources that together cover different subtopics or perspectives. -->
 
-| # | Source | Type | URL or file path |
-|---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| # | Source | Description | URL or location |
+|---|--------|-------------|-----------------|
+| 1 | Reddit | A post requesting the best elective choices | https://www.reddit.com/r/OSUOnlineCS/comments/1tbdq3m/what_electives_do_you_reccomend/ |
+| 2 | Reddit | A post requesting the best elective choices |https://www.reddit.com/r/OSUOnlineCS/comments/135yej9/best_electives/ |
+| 3 | Reddit | A post asking for the easiest electives to take | https://www.reddit.com/r/OSUOnlineCS/comments/scythe/easy_electives_to_finish_off_the_program/ |
+| 4 | Reddit | A post asking for the best summer elective | https://www.reddit.com/r/OSUOnlineCS/comments/1362sm5/need_one_more_elective_to_take_in_the_summer_term/ |
+| 5 | Reddit | A post asking for fun electives| https://www.reddit.com/r/OSUOnlineCS/comments/1hi5c5x/what_are_some_interesting_and_fun_electives_you/ |
+| 6 | Reddit | A post asking for elective reviews | https://www.reddit.com/r/OSUOnlineCS/comments/muc6r7/feedback_on_electives/ |
+| 7 | Reddit | A post asking for elective recommendations | https://www.reddit.com/r/OSUOnlineCS/comments/1hxg5h8/elective_recommendations/ |
+| 8 | Reddit | A post asking for the most fulfilling electives | https://www.reddit.com/r/OSUOnlineCS/comments/jro3a1/what_are_the_bestmost_fullfilling_electives_that/ |
+| 9 | Reddit | A post asking for recommended electives | https://www.reddit.com/r/OSUOnlineCS/comments/1n5u40a/recommended_electives/ |
+| 10 | Reddit | A post asking for the best electives to be job ready | https://www.reddit.com/r/OSUOnlineCS/comments/18nu07r/what_electives_were_most_useful_in_your_job_search/ |
+
 
 ---
 
